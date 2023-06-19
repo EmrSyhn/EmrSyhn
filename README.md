@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **OEtech Vts and Portal**
 
-- 🌱 I’m currently learning **Flutter/Dart And Python**
+- 🌱 I’m currently learning **Flutter/Dart**
 
 - 📫 How to reach me **emirseyhana.z@gmail.com**
 
