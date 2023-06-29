@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrsyhn&label=Profile%20views&color=0e75b6&style=flat" alt="emrsyhn" /> </p>
 
-<a href="https://wakatime.com/badge/user/0950c36a-14a4-4987-9bf7-d390a24ff2b7/project/143d6fc7-6329-4bf5-a071-f09385a9ff1e"><img src="https://wakatime.com/badge/user/0950c36a-14a4-4987-9bf7-d390a24ff2b7/project/143d6fc7-6329-4bf5-a071-f09385a9ff1e.svg" alt="wakatime"></a>
+<a href="https://wakatime.com/badge/user/0950c36a-14a4-4987-9bf7-d390a24ff2b7/project/143d6fc7-6329-4bf5-a071-f09385a9ff1e"><img src="https://wakatime.com/badge/user/0950c36a-14a4-4987-9bf7-d390a24ff2b7/project/143d6fc7-6329-4bf5-a071-f09385a9ff1e.svg" alt="ElzemApp"></a>
+<a href="https://wakatime.com/badge/user/0950c36a-14a4-4987-9bf7-d390a24ff2b7/project/d451dfaf-a705-4edf-807a-712d59fa5d20"><img  src="https://wakatime.com/badge/user/0950c36a-14a4-4987-9bf7-d390a24ff2b7/project/d451dfaf-a705-4edf-807a-712d59fa5d20.svg" alt="OeTech VTS"></a>
+<a href="https://wakatime.com/badge/user/0950c36a-14a4-4987-9bf7-d390a24ff2b7/project/002b67c4-1b4f-4507-bbe1-71ff2d781c95"><img src="https://wakatime.com/badge/user/0950c36a-14a4-4987-9bf7-d390a24ff2b7/project/002b67c4-1b4f-4507-bbe1-71ff2d781c95.svg" alt="OeTech MES"></a>
 
 - 🔭 I’m currently working on **OEtech Vts and Portal**
 
