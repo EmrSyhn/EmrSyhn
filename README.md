@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Flutter developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrsyhn&label=Profile%20views&color=0e75b6&style=flat" alt="emrsyhn" /> </p>
-<p align="left"> <img src="[![wakatime](https://wakatime.com/badge/user/0950c36a-14a4-4987-9bf7-d390a24ff2b7/project/143d6fc7-6329-4bf5-a071-f09385a9ff1e.svg)](https://wakatime.com/badge/user/0950c36a-14a4-4987-9bf7-d390a24ff2b7/project/143d6fc7-6329-4bf5-a071-f09385a9ff1e)" alt="emrsyhn" /> </p>
 
+<a href="https://wakatime.com/badge/user/0950c36a-14a4-4987-9bf7-d390a24ff2b7/project/143d6fc7-6329-4bf5-a071-f09385a9ff1e"><img src="https://wakatime.com/badge/user/0950c36a-14a4-4987-9bf7-d390a24ff2b7/project/143d6fc7-6329-4bf5-a071-f09385a9ff1e.svg" alt="wakatime"></a>
 
 - 🔭 I’m currently working on **OEtech Vts and Portal**
 
