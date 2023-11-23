@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Elzem Inventory Application**
 
-- 🌱 I’m currently learning **Flutter/Dart && Swfit**
+- 🌱 I’m currently learning **Flutter/Dart && SwfitUI**
 
 - 📫 How to reach me **emirseyhana.z@gmail.com**
 
