@@ -5,8 +5,6 @@
 
 <a href="https://wakatime.com/@0950c36a-14a4-4987-9bf7-d390a24ff2b7"><img src="https://wakatime.com/badge/user/0950c36a-14a4-4987-9bf7-d390a24ff2b7.svg" alt="Total time coded since Dec 21 2022" /></a>
 
-- 🔭 I’m currently working on **Elzem Inventory Application**
-
 - 🌱 I’m currently learning **Flutter/Dart && SwfitUI**
 
 - 📫 How to reach me **emirseyhana.z@gmail.com**
