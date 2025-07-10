@@ -8,7 +8,7 @@
 ---
 
 - 🔭 Currently building **SnapConnect** – a fresh way to share photos with your close circle, directly on your home screen via widgets.  
-- 📲 Try it out: [snapconnect.app](www.snapconect.com)  
+- 📲 Try it out: www.snapconect.com
 - 👨‍💻 Focused on **cross-platform mobile apps** with **Flutter**  
 - 💡 Exploring **SwiftUI**, **UX design** and a sprinkle of **AI** magic  
 - 🧭 Future goal: Build tools that make digital expression more human, instant and fun  
