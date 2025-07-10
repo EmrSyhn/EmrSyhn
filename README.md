@@ -1,21 +1,19 @@
 <h1 align="center">Hey 👋, I'm Emir</h1>
-<h3 align="center">Flutter Developer from Turkey 🇹🇷</h3>
+<h3 align="center">Flutter Developer & SnapConnect Founder 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=emrsyhn&label=Profile%20views&color=0e75b6&style=flat" alt="emrsyhn" />
-  <a href="https://wakatime.com/@0950c36a-14a4-4987-9bf7-d390a24ff2b7">
-    <img src="https://wakatime.com/badge/user/0950c36a-14a4-4987-9bf7-d390a24ff2b7.svg" alt="Total time coded" />
-  </a>
 </p>
 
 ---
 
-- 🔭 Currently building **cross-platform mobile apps** with Flutter  
-- 🌱 Exploring more about **SwiftUI**  
-- 👨‍💻 Open to new **Flutter developer** opportunities  
-- 💬 Ask me about **Flutter, Firebase, animations, or state management**  
-- ⚡ Fun fact: I used to be a courier, now I deliver features 😉  
-- 🌐 Check out my portfolio: [portfolyo-teal-sigma.vercel.app](https://portfolyo-teal-sigma.vercel.app/)  
+- 🔭 Currently building **SnapConnect** – a fresh way to share photos with your close circle, directly on your home screen via widgets.  
+- 📲 Try it out: [snapconnect.app](www.snapconect.com)  
+- 👨‍💻 Focused on **cross-platform mobile apps** with **Flutter**  
+- 💡 Exploring **SwiftUI**, **UX design** and a sprinkle of **AI** magic  
+- 🧭 Future goal: Build tools that make digital expression more human, instant and fun  
+- 💬 Ask me about **Flutter, Firebase, app animations, or widget development**  
+- ⚡ Fun fact: I used to deliver packages, now I deliver experiences 😉  
 - 📫 Reach me at **emirseyhana.z@gmail.com**
 
 ---
