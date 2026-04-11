@@ -7,14 +7,14 @@
 
 ---
 
-- 🔭 Currently building **SnapConnect** – a fresh way to share photos with your close circle, directly on your home screen via widgets.  
-- 📲 Try it out: www.snapconect.com
+- 🔭 Currently building **Budyvi** – a fresh way to share photos with your close circle, directly on your home screen via widgets.  
+- 📲 Try  it out: https://budyvi.com/
 - 👨‍💻 Focused on **cross-platform mobile apps** with **Flutter**  
 - 💡 Exploring **SwiftUI**, **UX design** and a sprinkle of **AI** magic  
 - 🧭 Future goal: Build tools that make digital expression more human, instant and fun  
 - 💬 Ask me about **Flutter, Firebase, app animations, or widget development**  
 - ⚡ Fun fact: I used to deliver packages, now I deliver experiences 😉  
-- 📫 Reach me at **emirseyhana.z@gmail.com**
+- 📫 Reach me at **info@kazlozstudio.com**
 
 ---
 
