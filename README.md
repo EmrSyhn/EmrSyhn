@@ -1,9 +1,5 @@
 <h1 align="center">Hey 👋, I'm Emir</h1>
-<h3 align="center">Flutter Developer & KazlozStudio Founder 🚀</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emrsyhn&label=Profile%20views&color=0e75b6&style=flat" alt="emrsyhn" />
-</p>
+<h3 align="center">Full Stack Developer & KazlozStudio Founder 🚀</h3>
 
 ---
 
@@ -25,16 +21,3 @@
   </a>
 </p>
 
----
-
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="Xcode" width="40" height="40"/>
-</p>
